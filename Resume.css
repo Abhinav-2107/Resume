@@ -1,0 +1,36 @@
+h1{
+    align-items: center;
+    text-align: center;
+}
+#sub{
+    align-items: center;
+    text-align: center;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    margin:0 50px 0 50px ;
+    display : flex;
+    justify-content: space-around;
+}
+N{
+    text-decoration: none;
+    padding-left: 10px;
+    opacity: 75%;
+}
+.side{
+    padding-left: 20px;
+}
+.insitute{
+    display :flex;
+    justify-content: space-between;
+}
+a{
+    padding-right: 50px;
+}
+.cert{
+    color: cornflowerblue;
+}
